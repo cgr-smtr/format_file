@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # app_renomear.R
 library(shiny)
 library(shinyFiles)
