@@ -1,0 +1,12 @@
+name: format_file
+title: format_file
+username: arrobaraujo
+account: arrobaraujo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16886828
+bundleId: 11700764
+url: https://arrobaraujo.shinyapps.io/format_file/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
