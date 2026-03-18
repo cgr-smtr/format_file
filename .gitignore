@@ -1,11 +1,19 @@
-<<<<<<< HEAD
-.Rproj.user
+# R / RStudio user-local files
+.Rproj.user/
 .Rhistory
+.Rapp.history
 .RData
 .Ruserdata
-=======
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
->>>>>>> 09dca4563fe39ef9140ca9eb9439dcbe99ff9362
+
+# Dependency and package management local state
+renv/library/
+renv/python/
+packrat/lib*/
+packrat/src/
+
+# Shiny deployment metadata generated locally
+rsconnect/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
